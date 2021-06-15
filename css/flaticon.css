@@ -1,0 +1,161 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:41
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-001-ai:before { content: "\f100"; }
+.flaticon-002-ai:before { content: "\f101"; }
+.flaticon-003-analytics:before { content: "\f102"; }
+.flaticon-004-ai:before { content: "\f103"; }
+.flaticon-005-ai:before { content: "\f104"; }
+.flaticon-006-chip:before { content: "\f105"; }
+.flaticon-007-ai:before { content: "\f106"; }
+.flaticon-008-ai:before { content: "\f107"; }
+.flaticon-009-ai:before { content: "\f108"; }
+.flaticon-010-artificial-intelligence:before { content: "\f109"; }
+.flaticon-011-ai:before { content: "\f10a"; }
+.flaticon-012-ai:before { content: "\f10b"; }
+.flaticon-013-ai:before { content: "\f10c"; }
+.flaticon-014-artificial-intelligence:before { content: "\f10d"; }
+.flaticon-015-artificial-intelligence:before { content: "\f10e"; }
+.flaticon-016-ai:before { content: "\f10f"; }
+.flaticon-017-automation:before { content: "\f110"; }
+.flaticon-018-bot:before { content: "\f111"; }
+.flaticon-019-chat:before { content: "\f112"; }
+.flaticon-020-customer-service:before { content: "\f113"; }
+.flaticon-021-browser:before { content: "\f114"; }
+.flaticon-022-brain:before { content: "\f115"; }
+.flaticon-023-brain:before { content: "\f116"; }
+.flaticon-024-brain:before { content: "\f117"; }
+.flaticon-025-brain:before { content: "\f118"; }
+.flaticon-026-idea:before { content: "\f119"; }
+.flaticon-027-intelligence:before { content: "\f11a"; }
+.flaticon-028-network:before { content: "\f11b"; }
+.flaticon-029-brain:before { content: "\f11c"; }
+.flaticon-030-human:before { content: "\f11d"; }
+.flaticon-031-chat:before { content: "\f11e"; }
+.flaticon-032-chat:before { content: "\f11f"; }
+.flaticon-033-brain:before { content: "\f120"; }
+.flaticon-034-chatbot:before { content: "\f121"; }
+.flaticon-035-chip:before { content: "\f122"; }
+.flaticon-036-chip:before { content: "\f123"; }
+.flaticon-037-ai:before { content: "\f124"; }
+.flaticon-038-bot:before { content: "\f125"; }
+.flaticon-039-data:before { content: "\f126"; }
+.flaticon-040-network:before { content: "\f127"; }
+.flaticon-041-computing-cloud:before { content: "\f128"; }
+.flaticon-042-chat:before { content: "\f129"; }
+.flaticon-043-computer:before { content: "\f12a"; }
+.flaticon-044-cryptocurrency:before { content: "\f12b"; }
+.flaticon-045-data-analysis:before { content: "\f12c"; }
+.flaticon-046-data:before { content: "\f12d"; }
+.flaticon-047-data:before { content: "\f12e"; }
+.flaticon-048-cloud:before { content: "\f12f"; }
+.flaticon-049-data:before { content: "\f130"; }
+.flaticon-050-global-network:before { content: "\f131"; }
+.flaticon-051-synchronization:before { content: "\f132"; }
+.flaticon-052-decision-making:before { content: "\f133"; }
+.flaticon-053-deep:before { content: "\f134"; }
+.flaticon-054-brain:before { content: "\f135"; }
+.flaticon-055-filter:before { content: "\f136"; }
+.flaticon-056-artificial-intelligence:before { content: "\f137"; }
+.flaticon-057-globe:before { content: "\f138"; }
+.flaticon-058-head:before { content: "\f139"; }
+.flaticon-059-chip:before { content: "\f13a"; }
+.flaticon-060-head:before { content: "\f13b"; }
+.flaticon-061-human:before { content: "\f13c"; }
+.flaticon-062-human-brain:before { content: "\f13d"; }
+.flaticon-063-human-brain:before { content: "\f13e"; }
+.flaticon-064-idea:before { content: "\f13f"; }
+.flaticon-065-human:before { content: "\f140"; }
+.flaticon-066-humanoid:before { content: "\f141"; }
+.flaticon-067-idea:before { content: "\f142"; }
+.flaticon-068-filter:before { content: "\f143"; }
+.flaticon-069-innovation:before { content: "\f144"; }
+.flaticon-070-innovation:before { content: "\f145"; }
+.flaticon-071-brain-process:before { content: "\f146"; }
+.flaticon-072-interaction:before { content: "\f147"; }
+.flaticon-073-laptop:before { content: "\f148"; }
+.flaticon-074-chat:before { content: "\f149"; }
+.flaticon-075-brain:before { content: "\f14a"; }
+.flaticon-076-lock:before { content: "\f14b"; }
+.flaticon-077-learning:before { content: "\f14c"; }
+.flaticon-078-learning:before { content: "\f14d"; }
+.flaticon-079-mind:before { content: "\f14e"; }
+.flaticon-080-machine:before { content: "\f14f"; }
+.flaticon-081-mapping:before { content: "\f150"; }
+.flaticon-082-chip:before { content: "\f151"; }
+.flaticon-083-mobile:before { content: "\f152"; }
+.flaticon-084-bot:before { content: "\f153"; }
+.flaticon-085-bot:before { content: "\f154"; }
+.flaticon-086-artificial-intelligence:before { content: "\f155"; }
+.flaticon-087-intelligence:before { content: "\f156"; }
+.flaticon-088-robot:before { content: "\f157"; }
+.flaticon-089-touch-screen:before { content: "\f158"; }
+.flaticon-090-brain:before { content: "\f159"; }
+.flaticon-091-ai:before { content: "\f15a"; }
+.flaticon-092-robot:before { content: "\f15b"; }
+.flaticon-093-nano:before { content: "\f15c"; }
+.flaticon-094-networking:before { content: "\f15d"; }
+.flaticon-095-networking:before { content: "\f15e"; }
+.flaticon-096-ai:before { content: "\f15f"; }
+.flaticon-097-data-analytics:before { content: "\f160"; }
+.flaticon-098-process:before { content: "\f161"; }
+.flaticon-099-technology:before { content: "\f162"; }
+.flaticon-100-hand:before { content: "\f163"; }
+.flaticon-101-brain:before { content: "\f164"; }
+.flaticon-102-correct:before { content: "\f165"; }
+.flaticon-103-brain:before { content: "\f166"; }
+.flaticon-104-robotic-hand:before { content: "\f167"; }
+.flaticon-105-robot:before { content: "\f168"; }
+.flaticon-106-robot:before { content: "\f169"; }
+.flaticon-107-robot:before { content: "\f16a"; }
+.flaticon-108-artificial-intelligence:before { content: "\f16b"; }
+.flaticon-109-report:before { content: "\f16c"; }
+.flaticon-110-security:before { content: "\f16d"; }
+.flaticon-111-brain:before { content: "\f16e"; }
+.flaticon-112-smartwatch:before { content: "\f16f"; }
+.flaticon-113-robot:before { content: "\f170"; }
+.flaticon-114-synchronization:before { content: "\f171"; }
+.flaticon-115-tablet:before { content: "\f172"; }
+.flaticon-116-brain:before { content: "\f173"; }
+.flaticon-117-target:before { content: "\f174"; }
+.flaticon-118-brain:before { content: "\f175"; }
+.flaticon-119-idea:before { content: "\f176"; }
+.flaticon-120-innovation:before { content: "\f177"; }
+.flaticon-121-ai:before { content: "\f178"; }
+.flaticon-122-ai:before { content: "\f179"; }
+.flaticon-123-bionic-arm:before { content: "\f17a"; }
+.flaticon-124-user:before { content: "\f17b"; }
+.flaticon-125-team:before { content: "\f17c"; }
+.flaticon-126-view:before { content: "\f17d"; }
+.flaticon-127-vision:before { content: "\f17e"; }
+.flaticon-128-warning:before { content: "\f17f"; }
+.flaticon-129-web:before { content: "\f180"; }
+.flaticon-130-web:before { content: "\f181"; }
+.flaticon-131-web:before { content: "\f182"; }
+.flaticon-132-web:before { content: "\f183"; }
